@@ -72,15 +72,15 @@
 
 # 18、SRE Google运维揭秘
 
-![SRE Google运维揭秘](assets/SRE Google运维揭秘.jpg)
+![SRE-Google运维揭秘](assets/SRE-Google运维揭秘.jpg)
 
 # 19、Value Stream Mapping
 
-
+![Value-Stream-Mapping](assets/Value-Stream-Mapping.jpg)
 
 # 20、看板方法
 
-![Value Stream Mapping](assets/Value Stream Mapping.jpg)
+![看板方法](assets/看板方法.jpg)
 
 # 21、看板实战
 
