@@ -8,3 +8,8 @@
 * DevOps实践
 * DevOps案例
 
+# DevOps交流群
+
+加群主，拉入群，注明：DevOps学院
+
+![](E:\devops\DevOps-Academy\imgs\weechat.jpg)
