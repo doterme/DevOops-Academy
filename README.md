@@ -12,4 +12,4 @@
 
 加群主，拉入群，注明：DevOps学院
 
-![](imgs\weechat.jpg)
+![weechat](imgs/weechat.jpg)
